@@ -65,7 +65,7 @@ function alterarConteudo(filme) {
         const cardItem = `
             <div class="col">
                 <div class="card">
-                    <img src="${imagem}" class="card-img-top" alt="${filme.titulo}">
+                    <img src="${imagem}" style="height: 300px;" class="card-img-top" alt="${filme.titulo}">
                 </div>
             </div>
         `;
