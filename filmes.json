@@ -1,22 +1,20 @@
 {
-    "title": "Inception",
-    "director": "Christopher Nolan",
-    "release_year": 2010,
-    "genre": ["Science Fiction", "Action", "Thriller"],
-    "duration_minutes": 148,
-    "cast": [
-        {
-            "name": "Leonardo DiCaprio",
-            "role": "Dom Cobb"
-        },
-        {
-            "name": "Joseph Gordon-Levitt",
-            "role": "Arthur"
-        },
-        {
-            "name": "Elliot Page",
-            "role": "Ariadne"
-        }
+    "titulo": "Superman: Legacy",
+    "ano": 2025,
+    "data_lancamento": "2025-07-11",
+    "generos": ["Ação", "Aventura", "Ficção Científica", "Drama", "Super-herói"],
+    "diretor": "James Gunn",
+    "sinopse": "Clark Kent tenta equilibrar sua herança kryptoniana com sua criação humana em Smallville. Enquanto busca se tornar um símbolo de esperança, ele enfrenta um mundo cético e desafios pessoais, ao mesmo tempo que se estabelece como o Superman.",
+    "duracao": "140min",
+    "elenco": [
+      {"ator": "David Corenswet"},
+      {"ator": "Rachel Brosnahan"},
+      {"ator": "Isabela Merced"},
+      {"ator": "Nicholas Hoult"},
+      {"ator": "Edi Gathegi"},
+      {"ator": "Nathan Fillion"},
+      {"ator": "Skyler Gisondo"},
+      {"ator": "Anthony Carrigan"}
     ],
-    "rating": 8.8
-}
+    "nota": 10
+  }
